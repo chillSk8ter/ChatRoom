@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Client/src/Dao/DBUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client/src/Dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Client/src/com/ChatRoom/client/tools/ClientConServerThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client/src/com/ChatRoom/client/view/AboutUs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client/src/com/ChatRoom/client/view/ChatFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client/src/com/ChatRoom/client/view/ConnectFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client/src/com/ChatRoom/client/view/FriendList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client/src/com/ChatRoom/client/view/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client/src/com/ChatRoom/client/view/MyServerFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Server/src/com/ChatRoom/server/model/ClientConServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Server/src/com/ChatRoom/server/model/Server.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
